@@ -1,0 +1,6 @@
+Fede: Hola, como estas?
+Henry: Todo bien. Debemos hablar de negocios.
+Fede: Claro, como gustes!
+Henry: Cual es el precio que ofreces?
+Fede: Mi precio es de 200 dólares
+Henry: Es muy caro, adios.
